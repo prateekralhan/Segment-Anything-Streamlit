@@ -1,7 +1,7 @@
 # ✨ Segment Anything 🚀 - Streamlit WebApp [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 Streamlit based implementation for the The ![Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) developed by ![Meta AI research](https://github.com/facebookresearch).
 
-![Animation](https://user-images.githubusercontent.com/29462447/230743437-8896afca-774c-48b9-8c53-b959a89501ab.gif)
+![Animation](https://user-images.githubusercontent.com/29462447/230744183-b07af944-dc28-4da8-8d37-f6a81ea13800.gif)
 
 ## Installation:
 * Simply run the command ```pip install -r requirements.txt``` to install the dependencies.
